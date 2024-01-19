@@ -1,4 +1,5 @@
 from collections import OrderedDict
+from tkinter.messagebox import showinfo
 
 import function as func
 
@@ -54,3 +55,4 @@ else:
     else:
         print("メッセージの送信に失敗しました。ステータスコード: {}".format(status_code))
 
+showinfo('処理は完了しました。')

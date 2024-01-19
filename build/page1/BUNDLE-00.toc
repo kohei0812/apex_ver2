@@ -1,0 +1,1 @@
+([('page1', '/Users/kohei/Desktop/python学習/apex/dist/page1', 'EXECUTABLE')],)
